@@ -116,6 +116,6 @@ The CBS algorithm is able to produce a selection map that would be capable of re
  ![picture](images/neuron_yield_alone.png)
 
 
-Contributing
+Questions, Contributing
 -
-If you want to 
+If you have any problems related to installing and running neuro_cbs, please create an "Issue." We would also welcome improvements or extensions. Please feel free to contact us if you would like to contribute.
