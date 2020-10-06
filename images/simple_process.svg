@@ -14,7 +14,10 @@
    version="1.1"
    id="svg1609"
    inkscape:version="1.0.1 (1.0.1+r73)"
-   sodipodi:docname="simple_process.svg">
+   sodipodi:docname="simple_process.svg"
+   inkscape:export-filename="/vol/sas4b/Goose_NeuropixelBehav_M1/packaged_data/neuro_cbs_neurips_2020/neuro_cbs/code/images/simple_process.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192">
   <defs
      id="defs1603">
     <marker
@@ -3798,7 +3801,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="358.73861"
+     inkscape:cx="330.52432"
      inkscape:cy="425.66489"
      inkscape:document-units="mm"
      inkscape:current-layer="g40158"
