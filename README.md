@@ -7,7 +7,7 @@
 
 This is the official implementation of "Optimal Adaptive Electrode Selection to Maximize Simultaneously Recorded Neuron Yield."
 
-Included is an implementation of Clasification Based Selection (CBS), written in MATLAB.
+Included is an implementation of Classification Based Selection (CBS), written in MATLAB.
 
 **Note:** Data for running the following examples is not included as part of this repository (see **Training** below). Instead, we will share this code and experimental data in a runnable containerized environment provided by CodeOcean.
 
