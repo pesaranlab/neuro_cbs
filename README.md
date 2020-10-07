@@ -9,7 +9,7 @@ This is the official implementation of "Optimal Adaptive Electrode Selection to 
 
 Included is an implementation of Classification Based Selection (CBS), written in MATLAB.
 
-**Note:** Data for running the following examples is not included as part of this repository (see **Training** below). Instead, we are sharing code and experimental data in a runnable containerize [environment](https://codeocean.com/capsule/4337586/tree/v1) provided by CodeOcean.
+**Note:** Data for running the following examples is not included as part of this repository (see **Training** below). Instead, we are sharing code and experimental data in a runnable containerized [environment](https://codeocean.com/capsule/4337586/tree/v1) provided by CodeOcean.
 
 Requirements
 -
