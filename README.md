@@ -3,7 +3,7 @@
 
  ![picture](images/simple_process.png)
 
-**neuro_cbs** provides adaptive Neuropixel (tested on Phase 1) bank/electrode selection to maximize the number of well-isolated neurons. CBS optimizes the selection map using short dense recordings from each bank.
+**neuro_cbs** provides adaptive Neuropixel (tested on version 1.0) bank/electrode selection to maximize the number of well-isolated neurons. CBS optimizes the selection map using short dense recordings from each bank.
 
 This is the official implementation of ["Optimal Adaptive Electrode Selection to Maximize Simultaneously Recorded Neuron Yield"](https://biorxiv.org/cgi/content/short/2020.10.06.328526v1).
 
@@ -13,7 +13,7 @@ Included is an implementation of Classification Based Selection (CBS), written i
 
 Requirements
 -
-Neural data is assumed to be collected from a Neuropixel (Imec, Phase 1) using SpikeGLX and sorted by Kilosort2. 
+Neural data is assumed to be collected from a Neuropixel 1.0 (phase 3b) probe using SpikeGLX and sorted by Kilosort2. 
 
 The code depends on the following MATLAB packages. They must be installed and on the MATLAB path:
 
