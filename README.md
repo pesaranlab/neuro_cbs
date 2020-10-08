@@ -5,7 +5,7 @@
 
 **neuro_cbs** provides adaptive Neuropixel (tested on Phase 1) bank/electrode selection to maximize the number of well-isolated neurons. CBS optimizes the selection map using short dense recordings from each bank.
 
-This is the official implementation of "Optimal Adaptive Electrode Selection to Maximize Simultaneously Recorded Neuron Yield."
+This is the official implementation of ["Optimal Adaptive Electrode Selection to Maximize Simultaneously Recorded Neuron Yield"](https://biorxiv.org/cgi/content/short/2020.10.06.328526v1).
 
 Included is an implementation of Classification Based Selection (CBS), written in MATLAB.
 
